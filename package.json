@@ -42,7 +42,7 @@
     "@actions/io": "^1.1.1",
     "@actions/tool-cache": "^1.6.1",
     "@octokit/openapi-types": "^7.2.1",
-    "cheerio": "^1.0.0-rc.9",
+    "cheerio": "^1.0.0",
     "semver": "^7.3.5"
   }
 }
