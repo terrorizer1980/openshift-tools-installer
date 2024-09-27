@@ -33,7 +33,7 @@
     "webpack-cli": "^4.7.0"
   },
   "dependencies": {
-    "@actions/cache": "^1.0.7",
+    "@actions/cache": "^3.2.1",
     "@actions/core": "^1.3.0",
     "@actions/exec": "^1.0.4",
     "@actions/github": "^5.0.0",
